@@ -1,0 +1,9 @@
+name: XolioProtect
+main: org.xoliocraft.protect.Protect
+version: 1.0.1 for Minecraft 1.1 /dev
+
+description: Zones protection and logging. Griefers, BEWARE ;)
+commands:
+  xp:
+    description: Use a command
+    usage: 
